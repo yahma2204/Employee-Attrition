@@ -1,0 +1,2 @@
+"","Age","BusinessTravel","DistanceFromHome","Education","EducationField","EnvironmentSatisfaction","Gender","JobInvolvement","JobLevel","JobRole","JobSatisfaction","MaritalStatus","NumCompaniesWorked","OverTime","RelationshipSatisfaction","TotalWorkingYears","TrainingTimesLastYear","WorkLifeBalance","YearsSinceLastPromotion","YearsWithCurrManager","ID_Employee"
+"1",24,"Travel Rarely",1,"Bachelor","Medical","Medium","Male","High",1,"Research Scientist","Very High","Married",2,"Yes","Low",6,2,"Good",2,0,45

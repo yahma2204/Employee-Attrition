@@ -1,0 +1,6 @@
+"","Age","BusinessTravel","DistanceFromHome","Education","EducationField","EnvironmentSatisfaction","Gender","JobInvolvement","JobLevel","JobRole","JobSatisfaction","MaritalStatus","NumCompaniesWorked","OverTime","RelationshipSatisfaction","TotalWorkingYears","TrainingTimesLastYear","WorkLifeBalance","YearsSinceLastPromotion","YearsWithCurrManager","ID_Employee"
+"1",38,"Travel Rarely",18,"Bachelor","Medical","Medium","Male","Low",2,"Healthcare Representative","Very High","Married",3,"Yes","High",15,2,"Better",1,0,1766
+"2",30,"Travel Rarely",16,"Below College","Life Sciences","Medium","Male","High",1,"Research Scientist","Very High","Married",1,"No","Medium",10,2,"Good",0,8,1729
+"3",21,"Travel Rarely",10,"Bachelor","Life Sciences","High","Female","Medium",1,"Laboratory Technician","Low","Single",1,"No","Low",1,6,"Good",1,0,1079
+"4",50,"Travel Rarely",28,"Below College","Medical","Very High","Male","Very High",1,"Laboratory Technician","High","Married",1,"Yes","High",20,3,"Better",3,8,716
+"5",40,"Travel Rarely",2,"Master","Life Sciences","High","Male","Medium",1,"Research Scientist","High","Single",2,"No","Very High",8,2,"Better",2,2,2048
